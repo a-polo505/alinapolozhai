@@ -399,6 +399,7 @@ footer {
         overflow: hidden;
         position: fixed;
         display: flex;
+        justify-content: space-between;
         flex-direction: row;
         backdrop-filter: blur(10px);
         background-color: rgba(32, 33, 36, 0.6);
@@ -409,7 +410,7 @@ footer {
     .nav-link {
         width: 48px;
         height: 48px;
-        margin-right: 24px; 
+        margin-right: 0; 
         margin-bottom: 0;
         display: flex;
         align-items: center;
