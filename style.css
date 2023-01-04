@@ -233,6 +233,11 @@ nav {
     font-size: 14px;
 }
 
+.text-block-container p {
+    margin: 0;
+    padding-bottom: 4px;
+}
+
 .text-experience {
     line-height: 1.5em;
 }
