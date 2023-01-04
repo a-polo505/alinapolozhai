@@ -1,0 +1,7 @@
+'use strict'
+
+let today = new Date();
+
+let year = today.getFullYear();
+
+document.getElementById("current-year").innerHTML = year;
