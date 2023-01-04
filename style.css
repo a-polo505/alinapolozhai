@@ -25,12 +25,12 @@ html {
 }
 
 :root {
-    --background-color: rgb(32, 33, 36);
-    --white-color:rgb(255, 255, 255);
-    --black-color:#141414;
-    --title-color:rgba(209,163,229,.2);
-    --selection-color:#929439;
-    --link-color: rgb(138, 180, 248);
+    --background-color: #202124;
+    --white-color: #ffffff;
+    --black-color: #141414;
+    --title-color: rgba(209, 163, 229, 0.2);
+    --selection-color: #929439;
+    --link-color: #8ab4f8;
    }
 
 .primary-button {
@@ -49,8 +49,8 @@ html {
 
 .primary-button-link:hover {
     text-decoration: none;
-    color: rgb(229, 239, 253);
-    background-color: rgba(138,180,248,.1);
+    color: #e5effd;
+    background-color: rgba(138, 180, 248, 0.1);
 }
 
 .link-color-experience {
@@ -64,7 +64,7 @@ html {
 
 .link-color-linkedin {
     text-decoration: underline;
-    text-decoration-color: rgb(102, 113, 238);
+    text-decoration-color: #6671ee;
     background: linear-gradient(261.62deg, #717bea -4.66%, #60d0ec 110.39%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -76,7 +76,7 @@ html {
 
 .link-color-dribbble {
     text-decoration: underline;
-    text-decoration-color: rgb(238, 85, 177);
+    text-decoration-color: #ee55b1;
     background: linear-gradient(261.62deg, #ee55b1 -4.66%, #ef9191 110.39%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -88,7 +88,7 @@ html {
 
 .link-color-gumroad {
     text-decoration: underline;
-    text-decoration-color: rgb(145, 239, 148);
+    text-decoration-color: #91ef94;
     background: linear-gradient(261.62deg, #dcee55 -4.66%, #91ef94 110.39%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -243,7 +243,7 @@ footer {
 @media (max-width: 1280px) {
     .wrapper {
      padding-left: 96px;
-     padding-right: 96px
+     padding-right: 96px;
     }
 
     .profile-image {
@@ -254,11 +254,11 @@ footer {
 @media (max-width: 1024px) {
     .wrapper {
         padding-left: 48px;
-        padding-right: 48px
+        padding-right: 48px;
        }
 
     .profile-image {
-            width: 25%;
+        width: 25%;
     }
 
     nav {
@@ -273,7 +273,7 @@ footer {
         backdrop-filter: blur(10px);
         background-color: rgba(32, 33, 36, 0.6);
         z-index: 99;
-        border-bottom: rgb(53, 53, 53) solid 1px;
+        border-bottom: #353535 solid 1px;
     }
 
     .nav-link {
@@ -311,8 +311,8 @@ footer {
 
 @media (max-width: 640px) {
     .wrapper {
-     padding-left: 20px;
-     padding-right: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
     .style-padding {
@@ -353,7 +353,7 @@ footer {
         backdrop-filter: blur(10px);
         background-color: rgba(32, 33, 36, 0.6);
         z-index: 99;
-        border-bottom: rgb(53, 53, 53) solid 1px;
+        border-bottom: #353535 solid 1px;
     }
 
     .nav-link {
@@ -409,7 +409,7 @@ footer {
 
 @media (max-width: 1800px) {
     .wrapper-content {
-     flex-direction: column;
+        flex-direction: column;
     }
 }
 
@@ -446,12 +446,12 @@ footer {
 
 @media (max-width: 1800px) {
     .styles_icons__c44km {
-     margin-bottom: 40px;
+        margin-bottom: 40px;
     }
    }
 
 @media (max-width: 640px) {
  .styles_icon___rELc {
-  margin-right: 10px;
+    margin-right: 10px;
  }
 }
