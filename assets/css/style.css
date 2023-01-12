@@ -159,6 +159,10 @@ h3 {
     line-height: 1.3em;
 }
 
+.image-container {
+    margin-bottom: 24px;
+}
+
 .profile-image {
     width: 16%;
 }
@@ -311,6 +315,10 @@ footer {
         padding-right: 48px;
     }
 
+    .image-container {
+        margin-bottom: 18px;
+    }
+    
     .profile-image {
         width: 25%;
     }
@@ -390,6 +398,10 @@ footer {
         margin-bottom: 14px;
         font-size: 28px;
         line-height: 1.5em;
+    }
+
+    .image-container {
+        margin-bottom: 16px;
     }
 
     .profile-image {
