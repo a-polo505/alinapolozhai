@@ -278,7 +278,7 @@ footer {
     line-height: 150%;
 }
 
-.text-container-secondary {
+p .text-container-secondary {
     font-size: 16px;
     line-height: 1.4em;
     opacity: 0.6;
