@@ -305,6 +305,10 @@ p .text-container-secondary {
     opacity: 0.6;
 }
 
+.text-footer {
+    opacity: 0.6;
+}
+
 @media (max-width: 1800px) {
     .wrapper-content {
         flex-direction: column;
