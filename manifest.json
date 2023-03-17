@@ -1,7 +1,7 @@
 {
     "name": "Alina Polozhai 👨‍💻 Business Analyst",
     "short_name": "Alina Polozhai",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "background_color": "#202124",
     "theme_color": "#202124",
     "categories": ["social", "business", "productivity"],

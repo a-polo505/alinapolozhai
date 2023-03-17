@@ -164,7 +164,20 @@ h3 {
 }
 
 .profile-image {
-    width: 16%;
+    width: 100%;
+}
+
+.image-profile {
+    position: relative;
+    max-width: 16%;
+}
+
+.profile-status {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 11;
+    font-size: 48px;
 }
 
 nav {
@@ -298,14 +311,20 @@ p .text-container-secondary {
     }
 }
 
+@media (min-width: 1800px) {
+    .profile-status {
+        font-size: 64px;
+    }
+}
+
 @media (max-width: 1280px) {
     .wrapper {
      padding-left: 128px;
      padding-right: 96px;
     }
 
-    .profile-image {
-        width: 12%;
+    .image-profile {
+        max-width: 12%;
     }
    }
 
@@ -318,9 +337,9 @@ p .text-container-secondary {
     .image-container {
         margin-bottom: 18px;
     }
-    
-    .profile-image {
-        width: 25%;
+
+    .image-profile {
+        max-width: 25%;
     }
 
     nav {
@@ -404,8 +423,12 @@ p .text-container-secondary {
         margin-bottom: 16px;
     }
 
-    .profile-image {
-        width: 35%;
+    .image-profile {
+        max-width: 35%;
+    }
+
+    .profile-status {
+        font-size: 32px;
     }
 
     nav {
