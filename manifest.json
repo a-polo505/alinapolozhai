@@ -1,0 +1,22 @@
+{
+    "name": "Alina Polozhai 👨‍💻 Business Analyst",
+    "short_name": "Alina Polozhai",
+    "start_url": "/index.html",
+    "background_color": "#202124",
+    "theme_color": "#202124",
+    "categories": ["social", "business", "productivity"],
+    "description": "Business Analyst with a passion for technologies, and more than 4 years experience.",
+    "icons": [
+      {
+        "src": "./assets/img/favicons/apple-touch-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/img/favicons/apple-touch-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "display": "standalone"
+  }
