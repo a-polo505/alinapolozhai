@@ -2,4 +2,4 @@ The code repository that powers [my personal website and portfolio](https://a-po
 
 Deployed with [GitHub Pages](https://pages.github.com).
 
-[![alina_polozhai_bsa_cover](https://github.com/a-polo505/alinapolozhai/assets/23198484/08dd711e-4fb0-4480-8fb6-9ac7c0d5ae1d)](https://a-polo505.github.io/alinapolozhai/)
+[![github_cover](https://github.com/user-attachments/assets/d03a89ba-c49b-4ba9-98f1-ba0cf78ba76f)](https://a-polo505.github.io/alinapolozhai/)
