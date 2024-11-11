@@ -1,19 +1,19 @@
 {
-    "name": "Alina Polozhai 👨‍💻 Business Analyst",
-    "short_name": "Alina Polozhai",
+    "name": "Alina Polozhai 👨‍💻 Business Systems Analyst",
+    "short_name": "Alina Polozhai. Business Systems Analyst",
     "start_url": "./index.html",
     "background_color": "#202124",
     "theme_color": "#202124",
-    "categories": ["social", "business", "productivity"],
-    "description": "Business Analyst with a passion for technologies, and more than 4 years experience.",
+    "categories": ["social", "business", "productivity", "portfolio", "resume"],
+    "description": "Business Systems Analyst who transforms technology into business value.",
     "icons": [
       {
-        "src": "./assets/img/favicons/apple-touch-icon.png",
+        "src": "./assets/img/favicons/android-chrome-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "./assets/img/favicons/apple-touch-icon.png",
+        "src": "./assets/img/favicons/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
